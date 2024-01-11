@@ -8,3 +8,14 @@ This is the blank project for the work: _**'MOSAIC: A Prune-and-Assemble Approac
 PERFORMANCE EVALUATION:
 
 ![20240111163805](https://github.com/caiyifei2008/MOSAIC/assets/55211869/4f0af816-c19c-4bb6-bbde-43942ab29190)
+
+![20240111164646](https://github.com/caiyifei2008/MOSAIC/assets/55211869/c4dfdd0d-19ad-4a20-af35-2d3068f27695)
+
+![20240111164712](https://github.com/caiyifei2008/MOSAIC/assets/55211869/9591f142-edbb-4552-b08a-7d1311985afd)
+
+![20240111164803](https://github.com/caiyifei2008/MOSAIC/assets/55211869/da6af739-1d17-4e96-861b-25200e27ba18)
+
+
+
+
+
