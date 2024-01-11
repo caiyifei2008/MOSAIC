@@ -7,7 +7,10 @@ This is the blank project for the work: _**'MOSAIC: A Prune-and-Assemble Approac
 
 PERFORMANCE EVALUATION:
 
-![20240111163805](https://github.com/caiyifei2008/MOSAIC/assets/55211869/4f0af816-c19c-4bb6-bbde-43942ab29190)
+![20240111165145](https://github.com/caiyifei2008/MOSAIC/assets/55211869/c328f661-4bb1-43ec-ab5e-af927e860a1a)
+
+
+Layer-Wise Performance Breakdown:
 
 ![20240111164646](https://github.com/caiyifei2008/MOSAIC/assets/55211869/c4dfdd0d-19ad-4a20-af35-2d3068f27695)
 
