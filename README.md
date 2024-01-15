@@ -20,5 +20,22 @@ Layer-Wise Performance Breakdown:
 
 
 
+**Citation:**
+For Hunter publication in AsiaCCS 2022
+@inproceedings{cai2022hunter,
+  title={Hunter: He-friendly structured pruning for efficient privacy-preserving deep learning},
+  author={Cai, Yifei and Zhang, Qiao and Ning, Rui and Xin, Chunsheng and Wu, Hongyi},
+  booktitle={Proceedings of the 2022 ACM on Asia Conference on Computer and Communications Security},
+  pages={931--945},
+  year={2022}
+}
 
-
+For MOSAIC publication in AsiaCCS 2024
+(temporary BibTeX)
+@inproceedings{cai2024mosaic,
+  title={Mosaic: a prune-and-assemble approach for efficient model pruning in privacy-preserving deep learning},
+  author={Cai, Yifei and Zhang, Qiao and Ning, Rui and Xin, Chunsheng and Wu, Hongyi},
+  booktitle={Proceedings of the 2024 ACM on Asia Conference on Computer and Communications Security},
+  howpublished = {\url{https://github.com/caiyifei2008/MOSAIC}},
+  year={2024}
+}
