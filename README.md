@@ -8,12 +8,15 @@ This is the project for the work: _**'MOSAIC: A Prune-and-Assemble Approach for 
 **PERFORMANCE EVALUATION:**
 
 GAZELLE Framework:
+
 ![1](https://github.com/caiyifei2008/MOSAIC/assets/55211869/18d80c3b-f3cd-4a68-bab2-830c4b731c86)
 
 CryptFlow2 Framework:
+
 ![2](https://github.com/caiyifei2008/MOSAIC/assets/55211869/40ec1cf9-5382-43aa-b235-0691a09b2d0e)
 
 MOSAIC VS Hunter:
+
 ![3](https://github.com/caiyifei2008/MOSAIC/assets/55211869/dc047538-6a58-4ddd-bf94-b011d7278c50)
 
 
