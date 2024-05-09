@@ -5,18 +5,27 @@ MOSAIC: A Prune-and-Assemble Approach for Efficient Model Pruning in Privacy-Pre
 This is the project for the work: _**'MOSAIC: A Prune-and-Assemble Approach for Efficient Model Pruning in Privacy-Preserving Deep Learning.'**_ The corresponding paper has been accepted by AsiaCCS24'. Further content and details will be added progressively.
 
 
-PERFORMANCE EVALUATION:
+**PERFORMANCE EVALUATION:**
 
-![20240111165145](https://github.com/caiyifei2008/MOSAIC/assets/55211869/c328f661-4bb1-43ec-ab5e-af927e860a1a)
+GAZELLE Framework:
+![1](https://github.com/caiyifei2008/MOSAIC/assets/55211869/18d80c3b-f3cd-4a68-bab2-830c4b731c86)
+
+CryptFlow2 Framework:
+![2](https://github.com/caiyifei2008/MOSAIC/assets/55211869/40ec1cf9-5382-43aa-b235-0691a09b2d0e)
+
+MOSAIC VS Hunter:
+![3](https://github.com/caiyifei2008/MOSAIC/assets/55211869/dc047538-6a58-4ddd-bf94-b011d7278c50)
 
 
-Layer-Wise Performance Breakdown:
+**Layer-Wise Performance Breakdown:**
 
-![20240111164646](https://github.com/caiyifei2008/MOSAIC/assets/55211869/c4dfdd0d-19ad-4a20-af35-2d3068f27695)
+![4](https://github.com/caiyifei2008/MOSAIC/assets/55211869/dc5b2ea2-e405-4e7c-92d7-df1252a87af9)
+![5](https://github.com/caiyifei2008/MOSAIC/assets/55211869/8e62fb25-6803-4368-9ff5-a4920bfebd73)
+![6](https://github.com/caiyifei2008/MOSAIC/assets/55211869/8c28c1be-b650-4c2c-91ba-8851b3fd92bd)
+![7](https://github.com/caiyifei2008/MOSAIC/assets/55211869/445a14e7-a3c0-4ab5-bc13-105ec640e828)
+![8](https://github.com/caiyifei2008/MOSAIC/assets/55211869/64202c14-d547-4da6-a8f9-3f5ab6efb9bb)
+![9](https://github.com/caiyifei2008/MOSAIC/assets/55211869/d5cc5012-09a1-431a-91f3-6501667fcf7e)
 
-![20240111164712](https://github.com/caiyifei2008/MOSAIC/assets/55211869/9591f142-edbb-4552-b08a-7d1311985afd)
-
-![20240111164803](https://github.com/caiyifei2008/MOSAIC/assets/55211869/da6af739-1d17-4e96-861b-25200e27ba18)
 
 
 
